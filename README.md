@@ -1,2 +1,2 @@
-# dita-pdf-normseite-einzeln
-Print a single scene topic of your novel
+# DITA-Plugin for PDF output
+DITA-Plugin for PDF output for a single scene as Normseite
