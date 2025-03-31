@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project>
-  <target name="dita2print-pdf-normseite"
-       depends="dita2print-pdf-normseite.init,
+  <target name="dita2print-pdf-normseite-einzeln"
+       depends="dita2print-pdf-normseite-einzeln.init,
                 dita2pdf2"/>
-  <target name="dita2print-pdf-normseite.init">
+  <target name="dita2print-pdf-normseite-einzeln.init">
     <property name="customization.dir"
           location="plugins/diagonale-pdf-4-1-2-normseite/cfg"/>
    </target>
