@@ -5,6 +5,6 @@
                 dita2pdf2"/>
   <target name="dita2print-pdf-normseite-einzeln.init">
     <property name="customization.dir"
-          location="plugins/diagonale-pdf-4-1-2-normseite/cfg"/>
+          location="plugins/diagonale-pdf-4-1-2-normseite-einzeln/cfg"/>
    </target>
 </project>
