@@ -3,7 +3,7 @@
 
 <plugin id="diagonale-pdf-4-1-2-normseite-einzeln">
   <require plugin="org.dita.pdf2.fop"/>
-  <transtype name="print-pdf-normseite-einzeln" extends="pdf" desc="PDF on A4 paper"/>
+  <transtype name="print-pdf-normseite-einzeln" extends="pdf2" desc="PDF on A4 paper"/>
   <feature extension="dita.transtype.print" value="print-pdf-normseite-einzeln"/>
   <feature extension="ant.import" file="integrator.xml"/>
 </plugin>
